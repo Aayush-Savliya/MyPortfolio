@@ -1,3 +1,10 @@
+import express from "../../assets/skills/express.png";
+import react from "../../src/assets/skills/react.png";
+import javascript from "../../src/assets/skills/javascript.png";
+import node from "../../src/assets/skills/node.png";
+import angular from "../../src/assets/skills/Angular.png";
+import mongodb from "../../src/assets/skills/mongodb.jpg";
+
 export const projctsName = [
   {
     id: 1,

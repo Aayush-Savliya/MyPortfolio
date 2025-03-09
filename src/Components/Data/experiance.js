@@ -1,7 +1,7 @@
 import express from "../../assets/skills/express.png";
-import react from "../../assets/skills/react.svg";
+import react from "../../assets/skills/react.png";
 import mongodb from "../../assets/skills/mongodb.jpg";
-import node from "../../assets/skills/node.png";
+import node from "../../../src/assets/skills/node.png"
 
 export const cardItem = [
   {
@@ -26,4 +26,4 @@ export const cardItem = [
   },
 ];
 
-export default cardItem;
+

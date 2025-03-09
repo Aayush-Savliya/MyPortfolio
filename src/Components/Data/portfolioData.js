@@ -2,7 +2,7 @@ import express from "../../assets/skills/express.png";
 import react from "../../assets/skills/react.png";
 import javascript from "../../assets/skills/javascript.png";
 import node from "../../assets/skills/node.png";
-import angular from "../../assets/skills/Angular.png";
+import angular from "../../assets/skills/Angular";
 import mongodb from "../../assets/skills/mongodb.jpg";
 
 export const projctsName = [
@@ -50,4 +50,4 @@ export const projctsName = [
   },
 ];
 
-export default projctsName;
+

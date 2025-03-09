@@ -30,15 +30,13 @@ const Contact = () => {
     >
       <div>
         <h1 className="text-3xl font-bold mb-4">Contact Me</h1>
-        <span className=" font-semibold">
+        <span className="font-semibold">
           Please Fill Out Form Below to Contact Me.
         </span>
         <br />
         <div className="flex flex-col items-center justify-center mt-7">
           <form
             onSubmit={handleSubmit(onSubmit)}
-            // action="https://getform.io/f/anlqnrea"
-            // method="POST"
             className="bg-slate-200 w-96 px-8 py-6 rounded-xl "
           >
             {" "}

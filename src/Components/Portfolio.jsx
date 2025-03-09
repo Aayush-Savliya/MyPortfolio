@@ -7,7 +7,6 @@ import angular from "../../src/assets/skills/Angular.png";
 import mongodb from "../../src/assets/skills/mongodb.jpg";
 import "./Data/portfolioData.js";
 
-
 const Portfolio = () => {
   return (
     <div

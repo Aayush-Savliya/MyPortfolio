@@ -43,3 +43,5 @@ export const projctsName = [
       "MongoDB is an open-source, document-oriented database that stores data in flexible documents instead of tables. It's a NoSQL database, which means it doesn't require a relational database management system (RDBMS). ",
   },
 ];
+
+export default projctsName;

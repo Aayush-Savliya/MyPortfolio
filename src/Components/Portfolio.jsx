@@ -1,6 +1,4 @@
 import React from "react";
-// import "./Data/portfolioData.js";
-// import projctsName from "./Data/portfolioData.js";
 import express from "../assets/skills/express.png";
 import react from "../assets/skills/react.png";
 import javascript from "../assets/skills/javascript.png";

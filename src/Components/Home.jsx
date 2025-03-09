@@ -39,7 +39,7 @@ const Home = () => {
             each component playing a role in the development process.{" "}
           </p>
           <br />
-          {/* social media icon  */}
+          
           <div className="flex flex-col items-center md:flex-row space-y-6 justify-between md:space-y-0">
             <div className="space-y-2">
               <h1 className="font-semibold">Availble On</h1>

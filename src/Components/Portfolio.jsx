@@ -1,13 +1,14 @@
 import React from "react";
-import express from "../../public/express.png";
-import react from "../../public/react.png";
-import javascript from "../../public/javascript.png";
-import node from "../../public/node.png";
-import angular from "../../public/Angular.png";
-import mongodb from "../../public/mongodb.jpg";
+import express from "../../src/assets/skills/express.png";
+import react from "../../src/assets/skills/react.png";
+import javascript from "../../src/assets/skills/javascript.png";
+import node from "../../src/assets/skills/node.png";
+import angular from "../../src/assets/skills/Angular.png";
+import mongodb from "../../src/assets/skills/mongodb.jpg";
+import "./Data/portfolioData.js";
+
 
 const Portfolio = () => {
- 
   return (
     <div
       name="Portfolio"

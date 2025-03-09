@@ -1,8 +1,8 @@
 import React from 'react'
-import express from "../../src/assets/express.png";
-import react from "../../src/assets/react.svg";
-import node from "../../src/assets/mongodb.png";
-import mongodb from "../../src/assets/node.png";
+import express from "../../src/assets/skills/express.png";
+import react from "../../src/assets/skills/react.svg";
+import mongodb from "../../src/assets/skills/mongodb.jpg";
+import node from "../../src/assets/skills/node.png";
 
 
 const Experiance = () => {

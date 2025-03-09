@@ -1,8 +1,9 @@
 import React, { useState } from "react";
-import pic from "../../public/photo.avif";
+import pic from "../../src/assets/skills/photo.avif";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoCloseSharp } from "react-icons/io5";
 import { Link } from "react-scroll";
+import './Data/navItem.js';
 
 const Navbar = () => {
   const [menu, setmenu] = useState(false);

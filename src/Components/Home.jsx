@@ -1,5 +1,5 @@
 import React from "react";
-import pic from "../../public/photo.avif";
+import pic from "../../src/assets/skills/photo.avif";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa6";
 import { FaInstagramSquare } from "react-icons/fa";

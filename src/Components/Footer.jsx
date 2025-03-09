@@ -30,7 +30,7 @@ const Footer = () => {
             <p className="font-semibold">
               &copy; 2024 Your Company. All rights reserved.
             </p>
-            {/* <p className="text-sm">Supportive Partner ❤️ Ankush</p> */}
+        
           </div>
         </div>
       </div>

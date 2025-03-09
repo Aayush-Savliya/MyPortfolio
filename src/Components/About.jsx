@@ -39,14 +39,12 @@ const About = () => {
         <br />
         
         <h1 className="text-green-700 font-semibold text-xl">
-          {/* Achievements & Awards */}
+          
         </h1>
         <span>
-          {/* [Award/Recognition], [Organization/Institution], [Year] [Achievement], */}
-          {/* [Organization/Platform], [Year] */}
+         
         </span>
-        {/* <br />
-        <br /> */}
+       
         <h1 className="text-green-700 font-semibold text-xl">
           Mission Statement
         </h1>

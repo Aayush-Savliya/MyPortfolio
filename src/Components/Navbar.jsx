@@ -6,32 +6,6 @@ import { Link } from "react-scroll";
 
 const Navbar = () => {
   const [menu, setmenu] = useState(false);
-  const navItems = [
-    {
-      id: 1,
-      text: "Home",
-    },
-
-    {
-      id: 2,
-      text: "About",
-    },
-
-    {
-      id: 3,
-      text: "Portfolio",
-    },
-
-    {
-      id: 4,
-      text: "Experiance",
-    },
-
-    {
-      id: 5,
-      text: "Contact",
-    },
-  ];
   return (
     <div
       className="max-w-screen-2xl container mx-auto px-4 md:px-20 h-16 shadow-md fixed top-0 left-0 right-0 z-50 bg-white"

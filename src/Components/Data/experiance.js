@@ -1,3 +1,7 @@
+import express from "../../assets/skills/express.png";
+import react from "../../assets/skills/react.svg";
+import mongodb from "../../assets/skills/mongodb.jpg";
+import node from "../../assets/skills/node.png";
 
 export const cardItem = [
   {

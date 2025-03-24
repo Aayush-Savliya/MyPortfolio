@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import pic from "../../src/assets/skills/Ayush.jpg";
+import pic from "../../src/assets/skills/photo.avif";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoCloseSharp } from "react-icons/io5";
 import { Link } from "react-scroll";
